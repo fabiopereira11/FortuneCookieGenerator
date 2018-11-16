@@ -1,3 +1,10 @@
+Try on Heroku
+=============
+
+Request Example:
+https://app-fortunecookie.herokuapp.com/generateFortuneCookie?client=Kakaroto&company=CapsuleCorp
+
+
 Tasks to be completed:
 1) Fix blocker issue that's currently causing all requests to return same fortune cookie instead of new ones.
 Steps to reproduce issue:
